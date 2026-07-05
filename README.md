@@ -10,14 +10,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AmanModi0/DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanModi0/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AmanModi0/DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AmanModi0/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
