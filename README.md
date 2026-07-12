@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/AmanModi0/DSA/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanModi0/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanModi0/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
