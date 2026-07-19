@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AmanModi0/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AmanModi0/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AmanModi0/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanModi0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmanModi0/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanModi0/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/AmanModi0/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AmanModi0/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
