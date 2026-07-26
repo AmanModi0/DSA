@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AmanModi0/DSA/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanModi0/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanModi0/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanModi0/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanModi0/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanModi0/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
