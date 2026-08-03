@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AmanModi0/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanModi0/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmanModi0/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AmanModi0/DSA/tree/master/0136-single-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanModi0/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanModi0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AmanModi0/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanModi0/DSA/tree/master/0344-reverse-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AmanModi0/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AmanModi0/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanModi0/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
