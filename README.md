@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanModi0/DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AmanModi0/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AmanModi0/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanModi0/DSA/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
