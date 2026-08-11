@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanModi0/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AmanModi0/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanModi0/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanModi0/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
