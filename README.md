@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AmanModi0/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AmanModi0/DSA/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanModi0/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
