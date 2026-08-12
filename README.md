@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AmanModi0/DSA/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AmanModi0/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanModi0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanModi0/DSA/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AmanModi0/DSA/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
