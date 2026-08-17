@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AmanModi0/DSA/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
+| [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AmanModi0/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/AmanModi0/DSA/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AmanModi0/DSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanModi0/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
