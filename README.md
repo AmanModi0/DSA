@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AmanModi0/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AmanModi0/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AmanModi0/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanModi0/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AmanModi0/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AmanModi0/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmanModi0/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanModi0/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
