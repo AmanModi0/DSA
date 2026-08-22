@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AmanModi0/DSA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanModi0/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanModi0/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AmanModi0/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AmanModi0/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 ## Trie
 |  |
 | ------- |
@@ -368,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
