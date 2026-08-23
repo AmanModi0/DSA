@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AmanModi0/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AmanModi0/DSA/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/AmanModi0/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanModi0/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/AmanModi0/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/AmanModi0/DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/AmanModi0/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 ## Monotonic Stack
