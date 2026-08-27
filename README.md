@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
 | [1668-maximum-repeating-substring](https://github.com/AmanModi0/DSA/tree/master/1668-maximum-repeating-substring) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmanModi0/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Newton's Method
 |  |
 | ------- |
