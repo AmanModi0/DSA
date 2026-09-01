@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmanModi0/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanModi0/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/AmanModi0/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AmanModi0/DSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanModi0/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AmanModi0/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
