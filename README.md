@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanModi0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1929-concatenation-of-array](https://github.com/AmanModi0/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanModi0/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmanModi0/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/AmanModi0/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanModi0/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanModi0/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
