@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanModi0/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AmanModi0/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanModi0/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AmanModi0/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanModi0/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmanModi0/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/AmanModi0/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/AmanModi0/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AmanModi0/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmanModi0/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AmanModi0/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanModi0/DSA/tree/master/3536-maximum-product-of-two-digits) |
