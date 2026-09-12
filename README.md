@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/AmanModi0/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AmanModi0/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AmanModi0/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AmanModi0/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmanModi0/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanModi0/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanModi0/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
