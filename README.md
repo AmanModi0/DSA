@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanModi0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/AmanModi0/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AmanModi0/DSA/tree/master/1929-concatenation-of-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AmanModi0/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1668-maximum-repeating-substring](https://github.com/AmanModi0/DSA/tree/master/1668-maximum-repeating-substring) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/AmanModi0/DSA/tree/master/2942-find-words-containing-character) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanModi0/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanModi0/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/3467-transform-array-by-parity) |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
 |  |
