@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AmanModi0/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Number Theory
