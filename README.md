@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AmanModi0/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AmanModi0/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/AmanModi0/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AmanModi0/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanModi0/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmanModi0/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanModi0/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmanModi0/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AmanModi0/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AmanModi0/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanModi0/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanModi0/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AmanModi0/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
