@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmanModi0/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AmanModi0/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AmanModi0/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AmanModi0/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/AmanModi0/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AmanModi0/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanModi0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanModi0/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanModi0/DSA/tree/master/0283-move-zeroes) |
