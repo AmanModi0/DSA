@@ -563,5 +563,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/AmanModi0/DSA/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/AmanModi0/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1280-students-and-examinations](https://github.com/AmanModi0/DSA/tree/master/1280-students-and-examinations) |
+| [1729-find-followers-count](https://github.com/AmanModi0/DSA/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AmanModi0/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
