@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/AmanModi0/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AmanModi0/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AmanModi0/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
