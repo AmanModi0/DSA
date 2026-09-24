@@ -2,7 +2,7 @@ class Solution:
     def lemonadeChange(self, bills: list[int]) -> bool:
         if bills[0] == 10 or bills[0] == 20:
             return False
-        change = {5:0,10:0,20:0}
+        change = {5: 0, 10: 0, 20: 0}
         for i in bills:
             change[i] += 1
             if i == 10:
