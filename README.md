@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/AmanModi0/DSA/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/AmanModi0/DSA/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/AmanModi0/DSA/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/AmanModi0/DSA/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/AmanModi0/DSA/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/AmanModi0/DSA/tree/master/1280-students-and-examinations) |
 | [1527-patients-with-a-condition](https://github.com/AmanModi0/DSA/tree/master/1527-patients-with-a-condition) |
