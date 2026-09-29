@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/AmanModi0/DSA/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/AmanModi0/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AmanModi0/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AmanModi0/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/AmanModi0/DSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AmanModi0/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/AmanModi0/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 ## Geometry
 |  |
 | ------- |
@@ -601,4 +604,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AmanModi0/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
