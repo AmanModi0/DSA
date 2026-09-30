@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AmanModi0/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AmanModi0/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AmanModi0/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanModi0/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmanModi0/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AmanModi0/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanModi0/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AmanModi0/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AmanModi0/DSA/tree/master/3701-compute-alternating-sum) |
