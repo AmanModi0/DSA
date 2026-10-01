@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AmanModi0/DSA/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmanModi0/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/AmanModi0/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AmanModi0/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanModi0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanModi0/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanModi0/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AmanModi0/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanModi0/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanModi0/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanModi0/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanModi0/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/AmanModi0/DSA/tree/master/0704-binary-search) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AmanModi0/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AmanModi0/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -629,4 +633,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmanModi0/DSA/tree/master/0706-design-hashmap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
