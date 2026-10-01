@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/AmanModi0/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AmanModi0/DSA/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/0905-sort-array-by-parity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AmanModi0/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanModi0/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanModi0/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AmanModi0/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmanModi0/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/AmanModi0/DSA/tree/master/3794-reverse-string-prefix) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanModi0/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/AmanModi0/DSA/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
