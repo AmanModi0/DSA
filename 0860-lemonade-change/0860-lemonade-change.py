@@ -8,8 +8,7 @@ class Solution:
             if i == 10:
                 if change.get(5) < 1:
                     return False
-                else:
-                    change[5] -= 1
+                change[5] -= 1
             elif i == 20:
                 if change.get(10) < 1:
                     if change.get(5) < 3:
