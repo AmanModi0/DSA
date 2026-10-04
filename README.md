@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/AmanModi0/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanModi0/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/AmanModi0/DSA/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AmanModi0/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AmanModi0/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AmanModi0/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
