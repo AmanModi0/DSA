@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AmanModi0/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AmanModi0/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AmanModi0/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/AmanModi0/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmanModi0/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AmanModi0/DSA/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/AmanModi0/DSA/tree/master/3945-digit-frequency-score) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/AmanModi0/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Stack
 |  |
 | ------- |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/3467-transform-array-by-parity) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/AmanModi0/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Divide and Conquer
 |  |
 | ------- |
