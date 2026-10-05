@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AmanModi0/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmanModi0/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/AmanModi0/DSA/tree/master/0476-number-complement) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
