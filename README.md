@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmanModi0/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/AmanModi0/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AmanModi0/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmanModi0/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmanModi0/DSA/tree/master/0141-linked-list-cycle) |
 | [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmanModi0/DSA/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/AmanModi0/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Function
 |  |
 | ------- |
