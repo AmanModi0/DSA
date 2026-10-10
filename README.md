@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmanModi0/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanModi0/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/AmanModi0/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanModi0/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/AmanModi0/DSA/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
