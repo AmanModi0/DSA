@@ -13,7 +13,7 @@ class Solution:
                     count += m
                     c[i] -= m
                     c[k - i] -= m
-            seen.add(i)
-            seen.add(k - i)
+                seen.add(i)
+                seen.add(k - i)
 
         return count
