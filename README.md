@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/AmanModi0/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/AmanModi0/DSA/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/AmanModi0/DSA/tree/master/3813-vowel-consonant-score) |
+| [3856-trim-trailing-vowels](https://github.com/AmanModi0/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Simulation
 |  |
 | ------- |
