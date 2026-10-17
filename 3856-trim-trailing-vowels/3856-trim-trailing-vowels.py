@@ -1,9 +1,6 @@
 class Solution:
     def trimTrailingVowels(self, s: str) -> str:
-        i = len(s)-1
-        while i >= 0:
-            if s[i] in "aeiou":
-                i -= 1
-            else:
-                return s[:i+1]
-        return ""
+        l = list(s)
+        while l and l[-1] in "aeiou":
+            l.pop()
+        return "".join(l)
