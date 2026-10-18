@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AmanModi0/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AmanModi0/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AmanModi0/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AmanModi0/DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AmanModi0/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanModi0/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AmanModi0/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2942-find-words-containing-character](https://github.com/AmanModi0/DSA/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanModi0/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AmanModi0/DSA/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AmanModi0/DSA/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanModi0/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AmanModi0/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
