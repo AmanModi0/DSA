@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AmanModi0/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/AmanModi0/DSA/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/AmanModi0/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanModi0/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanModi0/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/AmanModi0/DSA/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AmanModi0/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
