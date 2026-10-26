@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AmanModi0/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/AmanModi0/DSA/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/AmanModi0/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/AmanModi0/DSA/tree/master/0877-stone-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AmanModi0/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/AmanModi0/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AmanModi0/DSA/tree/master/1929-concatenation-of-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AmanModi0/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AmanModi0/DSA/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AmanModi0/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AmanModi0/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanModi0/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AmanModi0/DSA/tree/master/0905-sort-array-by-parity) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AmanModi0/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AmanModi0/DSA/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/AmanModi0/DSA/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanModi0/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AmanModi0/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1486-xor-operation-in-an-array) |
