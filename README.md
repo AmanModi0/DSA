@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/AmanModi0/DSA/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AmanModi0/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AmanModi0/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AmanModi0/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AmanModi0/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AmanModi0/DSA/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AmanModi0/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/AmanModi0/DSA/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AmanModi0/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AmanModi0/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AmanModi0/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/AmanModi0/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/AmanModi0/DSA/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Counting Sort
