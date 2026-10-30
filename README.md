@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanModi0/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/AmanModi0/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanModi0/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AmanModi0/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanModi0/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AmanModi0/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AmanModi0/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanModi0/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/AmanModi0/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AmanModi0/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
