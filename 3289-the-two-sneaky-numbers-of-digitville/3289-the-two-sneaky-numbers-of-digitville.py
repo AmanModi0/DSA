@@ -1,4 +1,10 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
-        c = Counter(nums)
-        return [i[0] for i in c.most_common(2)]
+        s = set()
+        ans = []
+        for i in nums:
+            if i in s:
+                ans.append(i)
+            else:
+                s.add(i)
+        return ans
