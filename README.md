@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/AmanModi0/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanModi0/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AmanModi0/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AmanModi0/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AmanModi0/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/AmanModi0/DSA/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/AmanModi0/DSA/tree/master/3798-largest-even-number) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AmanModi0/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AmanModi0/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AmanModi0/DSA/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AmanModi0/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/AmanModi0/DSA/tree/master/3945-digit-frequency-score) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/AmanModi0/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Stack
