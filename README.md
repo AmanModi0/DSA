@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/AmanModi0/DSA/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AmanModi0/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/AmanModi0/DSA/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/AmanModi0/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/AmanModi0/DSA/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/AmanModi0/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AmanModi0/DSA/tree/master/2469-convert-the-temperature) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AmanModi0/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AmanModi0/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AmanModi0/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/AmanModi0/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AmanModi0/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AmanModi0/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/AmanModi0/DSA/tree/master/3794-reverse-string-prefix) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/AmanModi0/DSA/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/AmanModi0/DSA/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/AmanModi0/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
