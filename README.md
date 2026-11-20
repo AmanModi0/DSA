@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AmanModi0/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanModi0/DSA/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AmanModi0/DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AmanModi0/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AmanModi0/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AmanModi0/DSA/tree/master/0053-maximum-subarray) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AmanModi0/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanModi0/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AmanModi0/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/AmanModi0/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AmanModi0/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanModi0/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmanModi0/DSA/tree/master/0141-linked-list-cycle) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AmanModi0/DSA/tree/master/0036-valid-sudoku) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
