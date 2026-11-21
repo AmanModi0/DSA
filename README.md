@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AmanModi0/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AmanModi0/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AmanModi0/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AmanModi0/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanModi0/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanModi0/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanModi0/DSA/tree/master/0118-pascals-triangle) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AmanModi0/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AmanModi0/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AmanModi0/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AmanModi0/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanModi0/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmanModi0/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AmanModi0/DSA/tree/master/0169-majority-element) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AmanModi0/DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/AmanModi0/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/AmanModi0/DSA/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/AmanModi0/DSA/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/AmanModi0/DSA/tree/master/0835-image-overlap) |
