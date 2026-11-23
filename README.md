@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AmanModi0/DSA/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AmanModi0/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/AmanModi0/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/AmanModi0/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AmanModi0/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanModi0/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AmanModi0/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AmanModi0/DSA/tree/master/1512-number-of-good-pairs) |
+| [1630-arithmetic-subarrays](https://github.com/AmanModi0/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AmanModi0/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AmanModi0/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AmanModi0/DSA/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanModi0/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AmanModi0/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/AmanModi0/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1630-arithmetic-subarrays](https://github.com/AmanModi0/DSA/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AmanModi0/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/AmanModi0/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AmanModi0/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
