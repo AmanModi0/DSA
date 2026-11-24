@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AmanModi0/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AmanModi0/DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AmanModi0/DSA/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/AmanModi0/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AmanModi0/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmanModi0/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AmanModi0/DSA/tree/master/0509-fibonacci-number) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AmanModi0/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AmanModi0/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AmanModi0/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AmanModi0/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanModi0/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AmanModi0/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AmanModi0/DSA/tree/master/0682-baseball-game) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AmanModi0/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AmanModi0/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmanModi0/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AmanModi0/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/AmanModi0/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AmanModi0/DSA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanModi0/DSA/tree/master/0876-middle-of-the-linked-list) |
